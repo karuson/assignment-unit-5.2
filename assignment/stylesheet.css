@@ -15,4 +15,5 @@ body {
 background-color: lightgrey;
 color: midnightblue;
 padding: 1em;
+border-left: solid 10px midnightblue;
 }

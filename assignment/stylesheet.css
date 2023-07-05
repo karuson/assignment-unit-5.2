@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    background-image: url(./record.png);
+    background-repeat: repeat;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;  
+}
+
+.header {
+    background-color: midnightblue;
+    color: lightgrey;
+    text-align: center;
+}
+
+.main {
+background-color: lightgrey;
+color: midnightblue;
+padding: 1em;
+}

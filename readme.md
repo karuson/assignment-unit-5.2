@@ -47,14 +47,15 @@ DONE
 
 - Look up CSS `margin` and `padding`. 
   - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
-  DONE
+DONE
   - Give the `main` padding of `1em`. (Curious about `em`? Look up CSS units.)
-  DONE
+DONE
 
 Here's an example of what the style could look like:
 <img src="./example.png">
 
 __STRETCH GOAL:__ Use CSS style classes vs element names to do your styling, except for adding the margin to the `body`. That is a good thing to add to every CSS file, and it should use the `body` HTML tag name.
+DONE
 
 ## Assignment Submission
 Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
